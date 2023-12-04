@@ -12,7 +12,12 @@
 ### *A* for Moving Left.
 ### *D* for Moving Right.
 ### *Space Bar* to Jump.
-### Here is a gameplay video:-
+### Here are some gameplay images:-
+![Screenshot 2023-12-04 054923](https://github.com/kparmar09/Rampaging-Cows/assets/99113843/934e0b31-becb-4204-8223-b39d2331b790)
+![rc4](https://github.com/kparmar09/Rampaging-Cows/assets/99113843/0b18db41-1972-47ab-b7ca-51d81030f5b9)
+![rc1](https://github.com/kparmar09/Rampaging-Cows/assets/99113843/5646a9ce-f544-40ea-b361-5c38ac3d9401)
+![rc3](https://github.com/kparmar09/Rampaging-Cows/assets/99113843/64101f04-9a49-45e4-9d85-80d571f5b5de)
+
 
 ## Where can you see my code ?
 ### Open the Assets folder -> Go to _Scripts -> Here you can see the code for various things happening in the game.
